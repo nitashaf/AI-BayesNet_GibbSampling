@@ -1,2 +1,3 @@
 # AI-BayesNet_GibbSampling
-AI project, solved Bayes nets using Gibb sampling
+In this project, we compared the performance of exact and approximate inference algorithms in the context of Bayesian networks. We implemented two key algorithms: variable elimination, an exact inference algorithm, and Gibbs sampling, an approximate inference algorithm. These algorithms were tested on five different Bayesian networks of varying sizes, as specified in the assignment (Alarm Network, Child Network, Hailfinder Network, Insurance Network, and Win95pts Network). We processed these networks using a common format to ensure compatibility with the implemented algorithms. For each network, we provided marginal distributions for the specified variables under different evidence conditions (little and moderate evidence), as required. 
+**Note:**  This code part comprises of Gibb Sampling, which was developed by me
